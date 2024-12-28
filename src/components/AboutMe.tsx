@@ -21,7 +21,7 @@ const AboutMe = () => {
               Yogesh Kotkar
             </h1>
             <h2 className="text-3xl text-gray-300 animate-slide-in-left hover:text-blue-400 transition-colors duration-300">
-              Project Manager
+              Project Manager / Scrum Master
             </h2>
           </div>
           <div className="max-w-3xl">
