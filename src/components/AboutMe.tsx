@@ -4,7 +4,7 @@ const AboutMe = () => {
   const handleDownload = () => {
     // Create a link element
     const link = document.createElement('a');
-    link.href = '/lovable-uploads/Yogesh Kotkar Project Manager Years.pdf'; // Updated path without 'public'
+    link.href = '/lovable-uploads/Yogesh Kotkar Project Manger & Scrum Master 7Year.pdf'; // Updated path without 'public'
     link.download = 'Yogesh_Kotkar_Resume.pdf';
     document.body.appendChild(link);
     link.click();
